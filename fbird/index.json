@@ -1,8 +1,9 @@
 {
-  "banAdventure"  :"sdf",
-  "bubleInt"      :"sdf",
-  "intId"         :"sdf",
-  "ticInt"        :"sdf",
-  "openId"        :"fd",
-  "link"          :"sd"
+  "banAdventure" :"sdf",
+  "banBubble"    :"sdf",
+  "bubleInt"     :"sdf",
+  "openId"       :"sdf",
+  "banId"        :"fd",
+  "intId"        :"sd",
+  "link"         :"sd"
 }
