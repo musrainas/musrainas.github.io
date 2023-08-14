@@ -1,7 +1,8 @@
 {
-  "banId"     :"ca-app-pub-0000000000000000/0000000000",
-  "bubleInt"  :"ca-app-pub-0000000000000000/0000000000",
-  "intId"     :"ca-app-pub-0000000000000000/0000000000",
-  "ticInt"    :"ca-app-pub-0000000000000000/0000000000",
-  "openId"    :"ca-app-pub-0000000000000000/0000000000"
+  "banAdventure"  :"",
+  "bubleInt"      :"",
+  "intId"         :"",
+  "ticInt"        :"",
+  "openId"        :"",
+  "link"          :""
 }
