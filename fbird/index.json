@@ -1,9 +1,9 @@
 {
-  "banAdventure" :"",
-  "banBubble"    :"",
-  "bubleInt"     :"",
-  "openId"       :"",
-  "banId"        :"",
-  "intId"        :"",
-  "link"         :""
+  "banAdventure" :"ca-app-pub-3940256099942544/6300978112",
+  "banBubble"    :"ca-app-pub-3940256099942544/6300978112",
+  "openId"       :"ca-app-pub-3940256099942544/3419835295",
+  "banId"        :"ca-app-pub-3940256099942544/6300978112",
+  "bubleInt"     :"ca-app-pub-3940256099942544/1033173713",
+  "intId"        :"ca-app-pub-3940256099942544/1033173713",
+  "link"         :"ca-app-pub-3940256099942544/1033173713"
 }
